@@ -6,6 +6,10 @@ This theme component allows you to add a Discord Widget as a dropdown to your Di
 
 ![Banner Image](.github/images/banner.png)
 
+## ✅ Requirements
+
+Discourse **3.4.0** or newer. The widget is a Glimmer component that uses `discourse/helpers/d-icon` and `i18n` from `discourse-i18n`, neither of which exists in earlier releases.
+
 ## ⚙️ Configuration & Setup
 
 ### How to Setup the Component

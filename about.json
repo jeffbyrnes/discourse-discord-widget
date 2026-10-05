@@ -2,6 +2,7 @@
   "name": "Discord Widget",
   "theme_version": "0.1",
   "component": true,
+  "minimum_discourse_version": "3.4.0",
   "about_url": null,
   "license_url": "https://github.com/paviliondev/discourse-discord-widget/blob/main/LICENSE.txt",
   "assets": {}
